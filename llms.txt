@@ -1,0 +1,26 @@
+# Audifort
+
+> Audifort is a Health & Fitness > Brain & Memory > Ear & Hearing Wellness Supplement. Audifort is a modern herbal dietary supplement formulated to support ear health, hearing wellness and everyday auditory comfort. Rather than a stimulant or a prescription-style product, it is a daily capsule built around plant-based and nutrient ingredients traditionally associated with healthy circulation, nerve support and normal auditory function. Taken as part of a consistent routine, Audifort is positioned for adults who want to look after their ears and hearing as part of a broader brain-and-body wellness plan.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://audifort.onrender.com/)
+- [What Audifort is](https://audifort.onrender.com/what-is-product.html)
+- [How Audifort works](https://audifort.onrender.com/how-it-works.html)
+- [Audifort ingredients, explained individually](https://audifort.onrender.com/ingredients.html)
+- [Audifort benefits](https://audifort.onrender.com/benefits.html)
+- [Audifort customer reviews](https://audifort.onrender.com/reviews.html)
+- [Audifort frequently asked questions](https://audifort.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying Audifort](https://audifort.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at Audifort — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://audifort.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using Audifort's own label as a real example of what to look for.
+- [Audifort: An Honest Review](https://audifort.onrender.com/blog/audifort-honest-review.html): An honest look at Audifort — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [Ginkgo Biloba vs Vinpocetine: What Each Does In Audifort](https://audifort.onrender.com/blog/ginkgo-biloba-vs-vinpocetine.html): Ginkgo Biloba and Vinpocetine are both in Audifort but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement Audifort](https://audifort.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with Audifort as part of a health & fitness > brain & memory > ear & hearing wellness
+- [Audifort FAQ: Dosage, Timing, Who Should Skip It](https://audifort.onrender.com/blog/audifort-faq.html): Common questions about Audifort — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://audifort.onrender.com/terms.html)
+- [Privacy Policy](https://audifort.onrender.com/privacy-policy.html)
+- [Disclaimer](https://audifort.onrender.com/disclaimer.html)
+- [Refund Policy](https://audifort.onrender.com/refund-policy.html)
+- [About Us](https://audifort.onrender.com/about.html)
+- [Contact Us](https://audifort.onrender.com/contact.html)
